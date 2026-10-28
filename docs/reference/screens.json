@@ -1,0 +1,326 @@
+[
+  {
+    "screen": "101",
+    "name": "101 - Onboarding",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "102",
+    "name": "102 - Onboarding",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "103",
+    "name": "103 - Onboarding",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "104",
+    "name": "104 - Login",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "105",
+    "name": "105 - Login_Filled",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "106",
+    "name": "106 - Phone Number Login",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "107",
+    "name": "107 - Verify phone number",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "108",
+    "name": "108 - Password Recovery",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "109",
+    "name": "109 - Verify your identity",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "110",
+    "name": "110 - Reset your password",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "111",
+    "name": "111 - Reset your password_Filled",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "112",
+    "name": "112 - Register",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "113",
+    "name": "113 - Register_Filled",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "114",
+    "name": "114 - Enter Address",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "115",
+    "name": "115 - Enter Address_Filled",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "201",
+    "name": "201 - Home_V1",
+    "width": 375,
+    "height": 1771
+  },
+  {
+    "screen": "202",
+    "name": "202 - Home_V2",
+    "width": 375,
+    "height": 1451
+  },
+  {
+    "screen": "203",
+    "name": "203 - Home_V3",
+    "width": 375,
+    "height": 1351
+  },
+  {
+    "screen": "204",
+    "name": "204 - Best Partners_V1",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "205",
+    "name": "205 - Best Partners_V2",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "206",
+    "name": "206 - Home_Mini Shipping",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "207",
+    "name": "207 - Filter_Category",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "208",
+    "name": "208 - Filter_Sort by",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "209",
+    "name": "209 - Filter_Price",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "210",
+    "name": "210 - Filter_All",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "211",
+    "name": "211 - Search_V1",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "212",
+    "name": "212 - Search_V2",
+    "width": 375,
+    "height": 914
+  },
+  {
+    "screen": "213",
+    "name": "213 - Detail Restaurants_V1",
+    "width": 375,
+    "height": 1633
+  },
+  {
+    "screen": "214",
+    "name": "214 - Detail Restaurants_V2",
+    "width": 375,
+    "height": 1571
+  },
+  {
+    "screen": "215",
+    "name": "215 - Detail Restaurants_Review",
+    "width": 375,
+    "height": 1543
+  },
+  {
+    "screen": "216",
+    "name": "216 - Add New Item",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "217",
+    "name": "217 - Mini Card",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "218",
+    "name": "218 - Add New Item",
+    "width": 375,
+    "height": 1390
+  },
+  {
+    "screen": "219",
+    "name": "219 - Add your payment methods",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "220",
+    "name": "220 - Scan Your Card",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "221",
+    "name": "221 - Confirmation order",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "301",
+    "name": "301 - Discover",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "302",
+    "name": "302 - Discover_Detail",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "401",
+    "name": "401 - Your Orders_Ongoing",
+    "width": 375,
+    "height": 887
+  },
+  {
+    "screen": "402",
+    "name": "402 - Your Orders_History",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "403",
+    "name": "403 - Rate Drive",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "404",
+    "name": "404 - Rate shop",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "404",
+    "name": "404 - Rate item",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "405",
+    "name": "405 - Feedback success",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "501",
+    "name": "501 - Profile",
+    "width": 375,
+    "height": 1539
+  },
+  {
+    "screen": "502",
+    "name": "502 - Account information",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "503",
+    "name": "503 - Change Password",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "504",
+    "name": "504 - Payment Methods",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "505",
+    "name": "505 - Payment Methods_Card",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "506",
+    "name": "506 - Card list",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "507",
+    "name": "507 - Add card",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "508",
+    "name": "508 - Enter Locations",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "509",
+    "name": "509 - Refer & Earn",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "screen": "510",
+    "name": "510 - Notification",
+    "width": 375,
+    "height": 812
+  }
+]

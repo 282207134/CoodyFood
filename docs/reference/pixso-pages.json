@@ -1,0 +1,555 @@
+{
+  "document": "Coody",
+  "pages": [
+    {
+      "id": "1:156",
+      "name": "Design"
+    },
+    {
+      "id": "1:2241",
+      "name": "Symbols"
+    }
+  ],
+  "screens": [
+    {
+      "id": "1:157",
+      "name": "101 - Onboarding",
+      "bounds": {
+        "x": -592,
+        "y": -485,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:182",
+      "name": "102 - Onboarding",
+      "bounds": {
+        "x": -117,
+        "y": -485,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:211",
+      "name": "103 - Onboarding",
+      "bounds": {
+        "x": 358,
+        "y": -485,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:254",
+      "name": "104 - Login",
+      "bounds": {
+        "x": 833,
+        "y": -485,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:288",
+      "name": "105 - Login_Filled",
+      "bounds": {
+        "x": 1308,
+        "y": -485,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:322",
+      "name": "106 - Phone Number Login",
+      "bounds": {
+        "x": 1783,
+        "y": -485,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:348",
+      "name": "107 - Verify phone number",
+      "bounds": {
+        "x": 2258,
+        "y": -485,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:381",
+      "name": "108 - Password Recovery",
+      "bounds": {
+        "x": 2733,
+        "y": -485,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:407",
+      "name": "109 - Verify your identity",
+      "bounds": {
+        "x": 3208,
+        "y": -485,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:439",
+      "name": "110 - Reset your password",
+      "bounds": {
+        "x": 3683,
+        "y": -485,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:466",
+      "name": "111 - Reset your password_Filled",
+      "bounds": {
+        "x": 4158,
+        "y": -485,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:493",
+      "name": "112 - Register",
+      "bounds": {
+        "x": 4633,
+        "y": -485,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:530",
+      "name": "113 - Register_Filled",
+      "bounds": {
+        "x": 5108,
+        "y": -485,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:567",
+      "name": "114 - Enter Address",
+      "bounds": {
+        "x": 5583,
+        "y": -485,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:581",
+      "name": "115 - Enter Address_Filled",
+      "bounds": {
+        "x": 6058,
+        "y": -485,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:600",
+      "name": "201 - Home_V1",
+      "bounds": {
+        "x": -592,
+        "y": 827,
+        "width": 375,
+        "height": 1771
+      }
+    },
+    {
+      "id": "1:633",
+      "name": "202 - Home_V2",
+      "bounds": {
+        "x": -117,
+        "y": 827,
+        "width": 375,
+        "height": 1451
+      }
+    },
+    {
+      "id": "1:651",
+      "name": "203 - Home_V3",
+      "bounds": {
+        "x": 358,
+        "y": 827,
+        "width": 375,
+        "height": 1351
+      }
+    },
+    {
+      "id": "1:670",
+      "name": "204 - Best Partners_V1",
+      "bounds": {
+        "x": 833,
+        "y": 827,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:684",
+      "name": "205 - Best Partners_V2",
+      "bounds": {
+        "x": 1308,
+        "y": 827,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:700",
+      "name": "206 - Home_Mini Shipping",
+      "bounds": {
+        "x": 1783,
+        "y": 827,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:732",
+      "name": "207 - Filter_Category",
+      "bounds": {
+        "x": 2258,
+        "y": 827,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:766",
+      "name": "208 - Filter_Sort by",
+      "bounds": {
+        "x": 2733,
+        "y": 827,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:799",
+      "name": "209 - Filter_Price",
+      "bounds": {
+        "x": 3208,
+        "y": 827,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:857",
+      "name": "210 - Filter_All",
+      "bounds": {
+        "x": 3683,
+        "y": 827,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:936",
+      "name": "211 - Search_V1",
+      "bounds": {
+        "x": 4158,
+        "y": 827,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:952",
+      "name": "212 - Search_V2",
+      "bounds": {
+        "x": 4633,
+        "y": 827,
+        "width": 375,
+        "height": 914
+      }
+    },
+    {
+      "id": "1:971",
+      "name": "213 - Detail Restaurants_V1",
+      "bounds": {
+        "x": 5108,
+        "y": 827,
+        "width": 375,
+        "height": 1633
+      }
+    },
+    {
+      "id": "1:1045",
+      "name": "214 - Detail Restaurants_V2",
+      "bounds": {
+        "x": 5583,
+        "y": 827,
+        "width": 375,
+        "height": 1571
+      }
+    },
+    {
+      "id": "1:1117",
+      "name": "215 - Detail Restaurants_Review",
+      "bounds": {
+        "x": 6058,
+        "y": 827,
+        "width": 375,
+        "height": 1543
+      }
+    },
+    {
+      "id": "1:1279",
+      "name": "216 - Add New Item",
+      "bounds": {
+        "x": 6533,
+        "y": 827,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:1345",
+      "name": "217 - Mini Card",
+      "bounds": {
+        "x": 7008,
+        "y": 827,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:1408",
+      "name": "218 - Add New Item",
+      "bounds": {
+        "x": 7483,
+        "y": 827,
+        "width": 375,
+        "height": 1390
+      }
+    },
+    {
+      "id": "1:1480",
+      "name": "219 - Add your payment methods",
+      "bounds": {
+        "x": 7958,
+        "y": 827,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:1540",
+      "name": "220 - Scan Your Card",
+      "bounds": {
+        "x": 8433,
+        "y": 827,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:1552",
+      "name": "221 - Confirmation order",
+      "bounds": {
+        "x": 8908,
+        "y": 827,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:1606",
+      "name": "301 - Discover",
+      "bounds": {
+        "x": -592,
+        "y": 3098,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:1640",
+      "name": "302 - Discover_Detail",
+      "bounds": {
+        "x": -117,
+        "y": 3098,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:1738",
+      "name": "401 - Your Orders_Ongoing",
+      "bounds": {
+        "x": -592,
+        "y": 4410,
+        "width": 375,
+        "height": 887
+      }
+    },
+    {
+      "id": "1:1783",
+      "name": "402 - Your Orders_History",
+      "bounds": {
+        "x": -117,
+        "y": 4410,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:1830",
+      "name": "403 - Rate Drive",
+      "bounds": {
+        "x": 358,
+        "y": 4410,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:1858",
+      "name": "404 - Rate shop",
+      "bounds": {
+        "x": 833,
+        "y": 4410,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:1885",
+      "name": "404 - Rate item",
+      "bounds": {
+        "x": 1308,
+        "y": 4410,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:1927",
+      "name": "405 - Feedback success",
+      "bounds": {
+        "x": 1783,
+        "y": 4410,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:1978",
+      "name": "501 - Profile",
+      "bounds": {
+        "x": -592,
+        "y": 5797,
+        "width": 375,
+        "height": 1539
+      }
+    },
+    {
+      "id": "1:2027",
+      "name": "502 - Account information",
+      "bounds": {
+        "x": -117,
+        "y": 5797,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:2047",
+      "name": "503 - Change Password",
+      "bounds": {
+        "x": 358,
+        "y": 5797,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:2067",
+      "name": "504 - Payment Methods",
+      "bounds": {
+        "x": 833,
+        "y": 5797,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:2085",
+      "name": "505 - Payment Methods_Card",
+      "bounds": {
+        "x": 1308,
+        "y": 5797,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:2102",
+      "name": "506 - Card list",
+      "bounds": {
+        "x": 1783,
+        "y": 5797,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:2126",
+      "name": "507 - Add card",
+      "bounds": {
+        "x": 2258,
+        "y": 5797,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:2155",
+      "name": "508 - Enter Locations",
+      "bounds": {
+        "x": 2733,
+        "y": 5797,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:2180",
+      "name": "509 - Refer & Earn",
+      "bounds": {
+        "x": 3208,
+        "y": 5797,
+        "width": 375,
+        "height": 812
+      }
+    },
+    {
+      "id": "1:2201",
+      "name": "510 - Notification",
+      "bounds": {
+        "x": 3683,
+        "y": 5797,
+        "width": 375,
+        "height": 812
+      }
+    }
+  ]
+}

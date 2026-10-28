@@ -1,0 +1,3821 @@
+[
+  {
+    "name": "Blue/B500",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6509803921568628,
+          "green": 0.2784313725490196,
+          "red": 0.02745098039215685
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Blue/B400",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8,
+          "green": 0.3215686274509807,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Blue/B300",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.396,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Blue/B200",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.5183333333333335,
+          "red": 0.15
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Blue/B100",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.6039215686274513,
+          "red": 0.2980392156862746
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Blue/B75",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.8300000000000001,
+          "red": 0.7
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Blue/B50",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.9198333333333334,
+          "red": 0.87
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Green/G50",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9333333333333333,
+          "green": 1,
+          "red": 0.8862745098039215
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Green/G75",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8208,
+          "green": 0.96,
+          "red": 0.6719999999999999
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Green/G100",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7520833333333334,
+          "green": 0.9500000000000001,
+          "red": 0.475
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Green/G200",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6375000000000001,
+          "green": 0.85,
+          "red": 0.34
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Green/G300",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4958333333333335,
+          "green": 0.7000000000000001,
+          "red": 0.21
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Green/G400",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3533333333333335,
+          "green": 0.53,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Green/G500",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2666666666666668,
+          "green": 0.4,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N0",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N10",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.988,
+          "green": 0.984,
+          "red": 0.98
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N20",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9686274509803922,
+          "green": 0.9607843137254902,
+          "red": 0.9568627450980391
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N30",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9400000000000001,
+          "green": 0.9259000000000001,
+          "red": 0.9212
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N40",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9,
+          "green": 0.882,
+          "red": 0.873
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N50",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8160000000000001,
+          "green": 0.78,
+          "red": 0.757
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N60",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.773,
+          "green": 0.729,
+          "red": 0.7020000000000001
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N70",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.729,
+          "green": 0.678,
+          "red": 0.647
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N80",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.686,
+          "green": 0.627,
+          "red": 0.592
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N90",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.643,
+          "green": 0.5760000000000001,
+          "red": 0.537
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N100",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.604,
+          "green": 0.525,
+          "red": 0.478
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N200",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.55,
+          "green": 0.4664,
+          "red": 0.418
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N300",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.518,
+          "green": 0.424,
+          "red": 0.369
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N400",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.475,
+          "green": 0.373,
+          "red": 0.314
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N500",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.431,
+          "green": 0.322,
+          "red": 0.259
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N600",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.388,
+          "green": 0.271,
+          "red": 0.204
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N700",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.345,
+          "green": 0.22,
+          "red": 0.145
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N800",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.302,
+          "green": 0.169,
+          "red": 0.09
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Neutral/N900",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.259,
+          "green": 0.118,
+          "red": 0.035
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Purple/P50",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.9019607843137255,
+          "red": 0.9176470588235294
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Purple/P75",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9490196078431372,
+          "green": 0.7137254901960784,
+          "red": 0.7529411764705883
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Purple/P100",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8509803921568627,
+          "green": 0.5529411764705883,
+          "red": 0.6
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Purple/P200",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8509803921568627,
+          "green": 0.4666666666666666,
+          "red": 0.5294117647058824
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Purple/P300",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7529411764705882,
+          "green": 0.3294117647058823,
+          "red": 0.3960784313725491
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Purple/P400",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6666666666666666,
+          "green": 0.2627450980392157,
+          "red": 0.3215686274509806
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Purple/P500",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5803921568627451,
+          "green": 0.196078431372549,
+          "red": 0.2509803921568629
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Red/R50",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8980392156862745,
+          "green": 0.9215686274509803,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Red/R75",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6784313725490196,
+          "green": 0.7411764705882353,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Red/R100",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.45,
+          "green": 0.5599999999999999,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Red/R200",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.32,
+          "green": 0.456,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Red/R300",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1899999999999999,
+          "green": 0.3385,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Red/R400",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.04349999999999994,
+          "green": 0.2087999999999999,
+          "red": 0.87
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Red/R500",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.15,
+          "red": 0.75
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Teal/T50",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.9866666666666666,
+          "red": 0.9
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Teal/T75",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.9599999999999999,
+          "red": 0.7
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Teal/T100",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9500000000000001,
+          "green": 0.8866666666666665,
+          "red": 0.475
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Teal/T200",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9,
+          "green": 0.7799999999999997,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Teal/T300",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.85,
+          "green": 0.7224999999999997,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Teal/T400",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.75,
+          "green": 0.6374999999999997,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Teal/T500",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.65,
+          "green": 0.5524999999999998,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Yellow/Y50",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9,
+          "green": 0.98,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Yellow/Y75",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7,
+          "green": 0.9400000000000001,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Yellow/Y100",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5,
+          "green": 0.8916666666666667,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Yellow/Y200",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.7666666666666668,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Yellow/Y300",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.6705882352941176,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Yellow/Y400",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1215686274509804,
+          "green": 0.6,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Yellow/Y500",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.5450980392156862,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Blue/BGradient",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 1,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8,
+          "green": 0.3215686274509807,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9090909090909091,
+                "green": 0.5423280423280425,
+                "red": 0
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8,
+                "green": 0.3215686274509807,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Green/GGradient",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 1,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3533333333333335,
+          "green": 0.53,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.5773420479302833,
+                "green": 0.7381615598885793,
+                "red": 0
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3533333333333335,
+                "green": 0.53,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Purple/PGradient",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 1,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6666666666666666,
+          "green": 0.2627450980392157,
+          "red": 0.3215686274509806
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8333333333333334,
+                "green": 0.4711673699015472,
+                "red": 0.5423280423280425
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.6666666666666666,
+                "green": 0.2627450980392157,
+                "red": 0.3215686274509806
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Red/RGradient",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 1,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.04349999999999994,
+          "green": 0.2087999999999999,
+          "red": 0.87
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1020887115700538,
+                "green": 0.3975022844958878,
+                "red": 0.9436008676789587
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.04349999999999994,
+                "green": 0.2087999999999999,
+                "red": 0.87
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Teal/TGradient",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 1,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.75,
+          "green": 0.6374999999999997,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8823529411764706,
+                "green": 0.814696485623003,
+                "red": 0
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.75,
+                "green": 0.6374999999999997,
+                "red": 0
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  },
+  {
+    "name": "Yellow/YGradient",
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "fillType": 1,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1215686274509804,
+          "green": 0.6,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "to": "{0.5, 1}",
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "position": 0,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2570480928689884,
+                "green": 0.7894736842105263,
+                "red": 1
+              }
+            },
+            {
+              "_class": "gradientStop",
+              "position": 1,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1215686274509804,
+                "green": 0.6,
+                "red": 1
+              }
+            }
+          ]
+        },
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ]
+  }
+]
